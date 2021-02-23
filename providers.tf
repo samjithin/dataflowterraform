@@ -1,5 +1,5 @@
 provider "google" {
-  project = var.project_id
+  project = terraformlearning-284414
 }
 
 terraform {
